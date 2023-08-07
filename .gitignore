@@ -1,0 +1,7 @@
+tmp/
+*_old
+*_backup
+Site For Import/.DS_Store
+.DS_Store
+img/.DS_Store
+tmp/.DS_Store
